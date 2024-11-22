@@ -3,6 +3,8 @@
 
 ![Project Banner](https://user-images.githubusercontent.com/58620359/174948746-5dc3418a-8296-4cc8-9561-f8f12ca9a0a4.png))  
 
+
+APP: https://churnpredic.streamlit.app/
 ## **Project Description**  
 This project predicts customer churn using a machine learning model. The model evaluates various customer attributes and predicts the likelihood of churn, helping businesses take proactive measures to retain their customers.  
 
