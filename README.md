@@ -1,7 +1,7 @@
 
 # **Customer Churn Prediction**
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Customer+Churn+Prediction)  
+![Project Banner](https://www.google.com/imgres?q=customer%20churn%20prediction&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1024%2F1*WZdoYPpmiIk1AcPQ1YHWug.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40allanouko17%2Fcustomer-churn-prediction-using-machine-learning-ddf4cd7c9fd4&docid=RL5gGA3ZCS4hUM&tbnid=GN6cI864XgUVQM&vet=12ahUKEwjNw8r72--JAxUe4zgGHeg2NugQM3oECGQQAA..i&w=1024&h=366&hcb=2&ved=2ahUKEwjNw8r72--JAxUe4zgGHeg2NugQM3oECGQQAA)  
 
 ## **Project Description**  
 This project predicts customer churn using a machine learning model. The model evaluates various customer attributes and predicts the likelihood of churn, helping businesses take proactive measures to retain their customers.  
